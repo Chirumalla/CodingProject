@@ -15,7 +15,7 @@ body {
 		</h2>
 		<h3>
 			<a href="persons.jsp">Click here to See Welcome Message... </a>(to
-			check Spring MVC Controller... @RequestMapping("/welcome"))
+			 Spring MVC Controller... @RequestMapping("/welcome"))
 		</h3>
 	</div>
 </body>
